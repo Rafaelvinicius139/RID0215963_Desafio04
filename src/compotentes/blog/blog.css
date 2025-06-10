@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+#blog{
+    background-color:#edf7fa;
+    color:#21243d;
+     font-family: "Heebo", sans-serif; 
+}
+
+#conteinerBlog{
+    display:flex;
+    width: 1152px;
+    height:396px;
+    margin-left: 170px;
+    font-family: "Heebo", sans-serif; 
+    font-size: 16px;
+
+   
+
+}
+#blog > h2{
+    margin-left:180px;
+    padding: 5px;
+    color: #21243d;
+}
+
+#tamanho1{
+    width:418px;
+    height:295px;
+   
+    margin:30px;
+    background-color: white;
+   
+}
+
+#tamanho1 h2{
+    margin-left:30px ;
+    margin-top:30px ;
+    
+}
+
+
+
+#tamanho2{
+    width:418px;
+    height:295px;
+  
+    margin:30px;
+    background-color: white;
+}
+
+#tamanho2 h2{
+    margin-left:30px ;
+    margin-top:30px ;
+}
+
+.linha{
+    display:flex;
+    margin-left:20px;
+    margin-top:10px;
+}
+.linha p{
+    padding:10px;
+    
+}
+
+.texto{
+    margin-left: 27px;
+    margin-top: 2px;
+   
+    width: 350px;
+
+}

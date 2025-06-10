@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+
+#conteiner{
+ 
+    display: flex;
+}
+
+#mensagens{
+    width: 50%;
+   
+    font-family: "Heebo", sans-serif; 
+    font-size:16px;
+    color: #21243d;
+}
+
+#mensagens h2 {
+    margin-top: 150px;
+    margin-left: 130px;
+    font-size: 30px;
+    
+
+}
+
+
+#mensagens p {
+    margin-top: 30px;
+    margin-left: 130px;
+
+}
+
+#imagem{
+    width: 50%;
+
+    
+}
+
+button{
+    background-color:#ff6464;
+    padding: 10px;
+    color: white;
+    border: solid #ff6464 2px;
+    margin-left: 130px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+img{
+   
+    width:300px;
+   
+
+    margin-top:30px;
+    margin-left:160px;
+    border-radius:10%;
+
+}
+

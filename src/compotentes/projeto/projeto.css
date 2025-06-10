@@ -1,0 +1,56 @@
+        
+        @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+         *{
+            font-family: "Heebo", sans-serif;
+         }
+        
+        .conteiner-projetos{
+            display: flex;
+            padding: 30px;
+            
+            
+
+            
+
+        }
+
+        .foto{
+            background-color:white;
+            width:246px;
+            height:180px;
+            margin-left: 200px;
+         
+        }
+
+        .mensagens-projetos{
+          
+            width: 70%;
+        }
+
+        .titulo{
+         
+            margin:0,
+
+        }
+
+        .titulo h2{
+            margin-left: 180px;
+            padding: 30px;
+            
+        }
+
+        .imagens{
+            margin: 0;
+            width:246px;
+            height:180px;
+        }
+
+        .conteiner-texto-projeto{
+           
+
+            
+            margin-left: 20px;
+            width: 90%;
+            color: #21243d;
+        }
+

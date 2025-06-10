@@ -1,0 +1,24 @@
+*{
+    margin:0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+
+header{
+ 
+   color: white;
+   padding:20px;
+   text-align: right;
+   font-family: "Heebo", sans-serif;
+}
+
+a{
+    padding:10px;
+    text-decoration: none;
+    color:#21243d;
+    font-size: 20px;
+    margin-left: 30px;
+}
+#mover{
+    margin-right: 100px;
+}
