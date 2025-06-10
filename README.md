@@ -1,12 +1,27 @@
-# React + Vite
+# Portfólio - Projeto Desafio DNC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tamplade ecolhido do fgma : Tamplade 03
 
-Currently, two official plugins are available:
+Este repositório contém o **projeto de portfólio** desenvolvido como parte do **desafio proposto pela DNC**. O objetivo foi criar uma aplicação moderna, responsiva e funcional, colocando em prática os conhecimentos adquiridos ao longo dos estudos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Tecnologias utilizadas
 
-## Expanding the ESLint configuration
+O projeto foi construído com as seguintes tecnologias:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **HTML5** – estrutura semântica da aplicação  
+- **CSS3** – estilização responsiva e moderna  
+- **JavaScript** – lógica e interatividade  
+- **React** – construção da interface com componentes reutilizáveis e uso de **hooks**, como o `useEffect` para lidar com efeitos colaterais e ciclos de vida dos componentes  
+- **Vite** – ferramenta de build para desenvolvimento rápido e eficiente  
+
+## 🚀 Objetivo
+
+Este projeto faz parte do meu **portfólio profissional** e tem como objetivo demonstrar minhas habilidades em **desenvolvimento front-end**, além de servir como base para projetos futuros.
+
+## 📁 Como executar
+
+Clone o repositório e execute os comandos:
+
+```bash
+npm install
+npm run dev
